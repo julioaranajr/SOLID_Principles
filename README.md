@@ -1,6 +1,6 @@
 # S.O.L.I.D. Principles
 
-![SOLID Principles](solid.jpeg)
+![SOLID Principles](solid.png)
 
 - Writing clean, maintainable code is just as important as writing code that works.
 
@@ -29,3 +29,17 @@ This repository contains the code examples for the SOLID principles. The SOLID p
 4. **Testability**: The SOLID principles help to make the code more testable. It becomes easier to write unit tests for the codebase.
 
 5. **Reusability**: The SOLID principles help to make the code more reusable. It becomes easier to reuse the codebase in other projects.
+
+## Conclusion
+
+The SOLID principles are an important set of principles that help to make the code more scalable, maintainable, readable, testable, and reusable. By following these principles, you can write better object-oriented code that is easier to extend, modify, and test.
+
+## Resources
+
+- [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
+- [SOLID Principles in Python](https://realpython.com/solid-principles-python/)
+- [S.O.L.I.D Principles Explained With Code Examples](https://python.plainenglish.io/s-o-l-i-d-principles-explained-with-code-1b5586276753)
+
+## Acknowledgements
+
+- (Abhijit Paul - Python Test Automation Developer) [GitHub Profile - Abhijit Paul](https://github.com/abhijitpaul0212)
